@@ -1,0 +1,12 @@
+{
+  "name": "form-to-pdf",
+  "module": "index.js",
+  "devDependencies": {
+    "@types/pdfkit": "^0.12.6",
+    "bun-types": "^0.1.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "pdfkit": "^0.13.0"
+  }
+}
